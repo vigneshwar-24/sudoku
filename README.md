@@ -1,5 +1,6 @@
-# Sudoku
-
+### EXP.NO: 06
+### DATE: 07.06.2022
+# <p align ="center" >Sudoku</p>
 ## Aim:
 To develop a code to solve a sudoku puzzle using contraint propagation
 
@@ -26,6 +27,9 @@ Repeat 3 and 4 until we get the solved puzzle.
 Calculate the time taken to solve the sudoku.
 
 ## Program:
+```python 
+#DEVELOPED BY: VIGNESHWAR S 
+#REGISTER NO: 21222023058
 ```python
 %matplotlib inline
 import matplotlib.pyplot as plt
@@ -119,10 +123,7 @@ p1=grid_values_improved(puzzle)
 result = search(p1)
 display(result)
 ```
-
 ## Output:
-
 <img width="129" alt="sudoku" src="https://user-images.githubusercontent.com/77089276/172892613-15861227-d095-430a-88f7-95f956274d3b.PNG">
-
 ## Result:
 Thus, a program to solve sudoku puzzle using constraint propagation is implemented successfully.
