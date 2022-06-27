@@ -8,9 +8,7 @@ To develop a code to solve a sudoku puzzle using contraint propagation
 Sudoku consists of a 9x9 grid, and the objective is to fill the grid with digits in such a way that each row, each column, and each of the 9 principal 3x3 subsquares contains all of the digits from 1 to 9.
 
 ## Sudoku puzzle:
-
-![Sudoku3](https://user-images.githubusercontent.com/77089276/172892660-e0db0d11-79bf-4d9a-9fd0-5c5125233ef2.jpg)
-
+<img src="https://user-images.githubusercontent.com/77089276/172892660-e0db0d11-79bf-4d9a-9fd0-5c5125233ef2.jpg" height ="150" width ="310">
 
 ## Design Steps:
 ### Step 1:
